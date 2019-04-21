@@ -7,10 +7,10 @@ export LANG=en_US.UTF-8
 apt-get remove -y --purge nodejs
 curl -sL https://deb.nodesource.com/setup_11.x | sudo -E bash -
 apt-get install -y nodejs
+EOF
 
 # npm install npm@latest -g
 # npm install -g httpserver archeyjs
-EOF
 
 install -m 644 files/archeyjs.service "${ROOTFS_DIR}/etc/systemd/system/"
 
