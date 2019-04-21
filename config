@@ -1,6 +1,6 @@
 IMG_NAME="Raspbian-Gecko"
 WPA_ESSID="hoth"
-WPA_PASSWORD="ninamassie"
+WPA_PASSWORD="password"
 WPA_COUNTRY="US"
 ENABLE_SSH=1
 STAGE_LIST="stage0 stage1 stage2 /home/kevin/github/raspbian-gecko/kevin"
