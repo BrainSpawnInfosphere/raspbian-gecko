@@ -1,0 +1,7 @@
+IMG_NAME="Raspbian-Gecko"
+WPA_ESSID="hoth"
+WPA_PASSWORD="ninamassie"
+WPA_COUNTRY="US"
+ENABLE_SSH=1
+STAGE_LIST="stage0 stage1 stage2 kevin"
+FIRST_USER_PASS="password"

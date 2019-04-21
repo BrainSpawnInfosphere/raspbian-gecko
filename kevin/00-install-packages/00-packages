@@ -1,0 +1,7 @@
+locales
+cmake pkg-config build-essential git swig
+i2c-tools
+nmap htop arp-scan wget curl
+wavemon libpcap0.8-dev
+bluez libusb-dev
+jp2a figlet
