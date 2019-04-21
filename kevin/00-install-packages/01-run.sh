@@ -1,5 +1,7 @@
 #!/bin/bash -e
 
+echo "<<< starting install package >>>"
+
 install -m 644 files/bashrc "${ROOTFS_DIR}/home/${FIRST_USER_NAME}/.bashrc"
 
 CONFIG="${ROOTFS_DIR}/home/${FIRST_USER_NAME}/.gitconfig"
