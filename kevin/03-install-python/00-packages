@@ -1,8 +1,0 @@
-python-dev
-libc6-dev
-build-essential cmake git pkg-config
-tk-dev libncurses5-dev libncursesw5-dev libreadline-dev libdb5.3-dev
-libgdbm-dev libsqlite3-dev libbz2-dev libexpat1-dev
-liblzma-dev zlib1g-dev mime-support
-libssl-dev openssl
-libffi-dev

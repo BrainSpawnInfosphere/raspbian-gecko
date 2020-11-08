@@ -1,7 +1,14 @@
-locales
-cmake pkg-config build-essential git swig
+cmake pkg-config build-essential
+
+nmap htop arp-scan
+
+rpi-update
+raspi-config
+
+wget curl
+
 i2c-tools
-nmap htop arp-scan wget curl
-wavemon libpcap0.8-dev
-bluez libusb-dev
-jp2a figlet
+
+libxml2-dev libxslt-dev
+
+ca-certificates

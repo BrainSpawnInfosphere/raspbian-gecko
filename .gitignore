@@ -1,5 +1,12 @@
-SKIP
-SKIP_IMAGES
-.DS_Store
-._*
+# IPython Notebook
+.ipynb_checkpoints
 
+.DS_Store
+._.*
+._*
+*.zip
+
+config
+deploy
+pi-gen
+old
